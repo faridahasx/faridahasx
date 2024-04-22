@@ -5,4 +5,4 @@
 - **🎯 I'm learning .Net and Vue.js at the moment**
 - **🌎 You can visit my website [Farida Hasanova](https://faridah.vercel.app)**
 - **🐦 You can follow me on twitter: [@faridahasx](https://twitter.com/faridahasx)**
-- **🖇️ You can add me on LinkedIn: [Farida Hasanova](https://www.linkedin.com/in/faridahasx**
+- **🖇️ You can add me on LinkedIn: [Farida Hasanova](https://www.linkedin.com/in/faridahasx)**
